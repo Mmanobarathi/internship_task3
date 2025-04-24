@@ -27,5 +27,6 @@ This project explores and analyzes Netflix content data using SQL in **SQLite**.
 
 - `netflix_data.csv` – Raw dataset used
 - `task_3.sql` – SQL file with all queries
-- `data_analysis_sql.pdf` – PDF report
+- `data_analysis_sql.pdf` – PDF report containing a detailed view on all queries of the task
+- `screenshots_task3.pdf`- scrernshots of tasks
 
